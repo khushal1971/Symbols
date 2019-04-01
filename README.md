@@ -1,13 +1,13 @@
-Updating INKSCAPE Symbol library.
+**Updating INKSCAPE Symbol library**.
 
 
 Example : 
 
-1) download and place PFD Symbols.svg files at destination  -  .config/inkscape/symbols 
+1) Download and place PFD Symbols.svg files at destination  -  .config/inkscape/symbols 
 
 2) Open Inkscape
 
-3) press Ctrl+shift+y  (it will open symbol dock)
+3) Press Ctrl+shift+y  (it will open symbol dock)
 
 Done ! 
 
