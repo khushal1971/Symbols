@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg143062"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="crushers.svg">
+  <title
+     id="title129">Crusher</title>
+  <defs
+     id="defs143056">
+    <symbol
+       id="Crusher">
+      <title
+         id="title143374">Crusher</title>
+      <g
+         id="g143219">
+        <path
+           d="m 18.87918,182.63825 4.43442,8.8706 4.43583,-8.8706"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+           id="path9699"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g9701"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 36.766,3958.809 12.57,25.144 12.574,-25.144 m -15.086,9.429 h 5.028 m -2.516,2.516 v -5.031"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9703"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="Coarse_Crusher">
+      <title
+         id="title143376">Coarse Crusher</title>
+      <g
+         id="g143230">
+        <path
+           d="m 18.83897,199.7134 4.47463,8.94926 4.47463,-8.94926 m -8.94926,0 v -4.47428 h 8.94926 v 4.47428"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+           id="path9705"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g9707"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 36.652,4007.211 12.684,25.367 12.684,-25.367 m -25.368,0 v -12.684 H 62.02 v 12.684 m -15.219,9.512 h 5.074 m -2.539,2.539 v -5.074"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9709"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="Medium_Crushers">
+      <title
+         id="title143378">Medium Crushers</title>
+      <g
+         id="g143252">
+        <path
+           d="m 67.72761,181.97256 5.100105,10.20162 5.10011,-10.20162"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+           id="path9711"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g9713"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 175.234,3956.922 14.457,28.918 14.457,-28.918 m -28.914,0 h 28.914 m -17.347,10.844 h 5.781 m -2.891,2.89 v -5.781"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9715"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="Fine_Crushers">
+      <title
+         id="title143380">Fine Crushers</title>
+      <g
+         id="g143241">
+        <path
+           d="m 67.72761,199.08792 5.100105,10.20022 5.10011,-10.20022 m -10.200215,0 c 1.20333,-1.60549 3.093855,-2.54952 5.100105,-2.54952 2.0066,0 3.89573,0.94403 5.10011,2.54952"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+           id="path9717"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g9719"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 175.234,4005.438 14.457,28.914 14.457,-28.914 m -28.914,0 c 3.411,-4.551 8.77,-7.227 14.457,-7.227 5.688,0 11.043,2.676 14.457,7.227 m -17.347,10.843 h 5.781 m -2.891,2.891 v -5.781"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9721"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="Various_Crushers">
+      <title
+         id="title143382">Various Crushers</title>
+      <g
+         id="g143263">
+        <path
+           d="m 120.96812,189.06939 h 7.09719 l 3.54682,-7.09683 h -14.19225 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+           id="path9723"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g9725"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 326.152,3977.039 v -20.117 m 20.118,20.117 v -20.117 m -20.118,20.117 h 20.118 l 10.054,-20.117 h -40.23 z m 4.024,-4.023 6.035,-6.036 m -6.035,-6.035 6.035,6.035 m 6.035,-6.035 -6.035,6.035 m 6.035,6.036 -6.035,-6.036"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9727"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="Hammer_Crushers">
+      <title
+         id="title143384">Hammer Crushers</title>
+      <g
+         id="g143285">
+        <path
+           d="m 120.87746,199.45164 h 7.27851 l 3.63961,-7.27887 h -14.55773 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+           id="path9729"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g9731"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 325.895,4006.469 v -20.633 m 20.632,20.633 v -20.633 m -20.632,20.633 h 20.632 l 10.317,-20.633 h -41.266 z m 4.128,-12.379 4.125,-4.125 m 4.125,0 4.129,4.125 m 0,4.125 -4.129,4.125 m -4.125,0 -4.125,-4.125 m 2.063,2.062 8.25,-8.25 m -8.25,0 8.25,8.25"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9733"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="Impact_Crusher">
+      <title
+         id="title143386">Impact Crusher</title>
+      <g
+         id="g143274">
+        <path
+           d="m 120.98894,209.9122 h 7.05555 l 3.52919,-7.05661 h -14.11393 z m 4.23333,-3.52883 c 0,0.38981 -0.31574,0.70555 -0.70555,0.70555 -0.39018,0 -0.70556,-0.31574 -0.70556,-0.70555 0,-0.39018 0.31538,-0.70556 0.70556,-0.70556 0.38981,0 0.70555,0.31538 0.70555,0.70556 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+           id="path9735"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g9737"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 326.211,4036.121 v -20.004 m 20,20.004 v -20.004 m -20,20.004 h 20 l 10.004,-20.004 h -40.008 z m 4,-4.004 4.586,-4.586 m -4.586,-7.414 4.586,4.586 m 7.414,-4.586 -4.586,4.586 m 4.586,7.414 -4.586,-4.586 m 0.586,-1.414 c 0,1.106 -0.895,2 -2,2 -1.106,0 -2,-0.894 -2,-2 0,-1.105 0.894,-2 2,-2 1.105,0 2,0.895 2,2 z"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9739"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="Jaw_Crusher">
+      <title
+         id="title143388">Jaw Crusher</title>
+      <g
+         id="g143307">
+        <path
+           d="m 171.69122,188.92334 h 6.94795 l 3.47522,-6.94937 h -13.89733 z m 5.55872,-3.47522 c 0,0.38453 -0.31115,0.69568 -0.69427,0.69568 -0.38453,0 -0.69603,-0.31115 -0.69603,-0.69568 0,-0.38311 0.3115,-0.69461 0.69603,-0.69461 0.38312,0 0.69427,0.3115 0.69427,0.69461 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+           id="path9741"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g9743"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 469.934,3976.625 v -19.699 m 19.695,19.699 v -19.699 m -19.695,19.699 h 19.695 l 9.851,-19.699 h -39.394 z m 15.757,-9.852 c 0,1.09 -0.882,1.973 -1.968,1.973 -1.09,0 -1.973,-0.883 -1.973,-1.973 0,-1.085 0.883,-1.968 1.973,-1.968 1.086,0 1.968,0.883 1.968,1.968 z m -15.757,0 h 11.816"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9745"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="Roller_Crusher">
+      <title
+         id="title143390">Roller Crusher</title>
+      <g
+         id="g143318">
+        <path
+           d="m 172.38407,199.31511 h 7.00476 l 3.50308,-7.00581 h -14.01057 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+           id="path9747"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g9749"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 471.898,4006.082 v -19.859 m 19.856,19.859 v -19.859 m -19.856,19.859 h 19.856 l 9.93,-19.859 h -39.715 z m 9.93,-9.93 c 0,1.098 -0.89,1.985 -1.988,1.985 -1.094,0 -1.985,-0.887 -1.985,-1.985 0,-1.097 0.891,-1.984 1.985,-1.984 1.098,0 1.988,0.887 1.988,1.984 z m 3.969,0 c 0,1.098 -0.887,1.985 -1.984,1.985 -1.098,0 -1.985,-0.887 -1.985,-1.985 0,-1.097 0.887,-1.984 1.985,-1.984 1.097,0 1.984,0.887 1.984,1.984 z"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9751"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="Cone_Crusher">
+      <title
+         id="title143392">Cone Crusher</title>
+      <g
+         id="g143296">
+        <path
+           d="m 171.55328,210.27768 h 7.22383 l 3.61174,-7.22383 h -14.44731 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+           id="path9753"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g9755"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 469.543,4037.156 v -20.476 m 20.477,20.476 v -20.476 m -20.477,20.476 h 20.477 l 10.238,-20.476 h -40.953 z m 4.098,-4.093 h 12.285 l -3.074,-12.286 h -6.141 z"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9757"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="Vibration_Crusher">
+      <title
+         id="title143394">Vibration Crusher</title>
+      <g
+         id="g143342">
+        <g
+           id="g9759"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 604.887,3957.797 h 36.734 l -9.183,18.367 H 614.07 Z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9761"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g9763"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 612.047,3957.98 -4.039,6.247"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9765"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g9767"
+           transform="matrix(-0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m -634.457,3957.98 -4.039,6.247"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9769"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g9771"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 617.176,3966.98 c 0,-3.308 2.719,-5.968 6.078,-5.968 3.34,0 6.059,2.66 6.059,5.968 0,3.286 -2.719,5.958 -6.059,5.958 -3.359,0 -6.078,-2.672 -6.078,-5.958 z"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9773"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g9775"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 626.559,3965.406 h -3.305"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9777"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g9779"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 623.254,3964.227 v 2.363 l -3.309,-1.223 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9781"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g9783"
+           transform="matrix(-0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m -619.945,3968.551 h -3.309"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9785"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g9787"
+           transform="matrix(-0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m -623.254,3967.367 v 2.367 l -3.305,-1.222 z"
+             style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9789"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="Hammer_Crusher_1">
+      <title
+         id="title143396">Hammer Crusher 1</title>
+      <g
+         id="g143366">
+        <path
+           d="m 220.679,199.08792 c 0,-2.81658 2.28352,-5.10011 5.1001,-5.10011 2.81658,0 5.10011,2.28353 5.10011,5.10011 0,2.81658 -2.28353,5.10011 -5.10011,5.10011 -2.81658,0 -5.1001,-2.28353 -5.1001,-5.10011 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+           id="path9791"
+           inkscape:connector-curvature="0" />
+        <g
+           id="g9793"
+           transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+          <path
+             d="m 613.703,4001.617 5.731,-5.73 3.82,3.82 3.816,-3.82 5.731,5.73 -3.821,3.821 3.821,3.82 -5.731,5.726 -3.816,-3.82 -3.82,3.82 -5.731,-5.726 3.82,-3.82 z m -4.906,3.821 c 0,-7.985 6.473,-14.458 14.457,-14.458 7.984,0 14.457,6.473 14.457,14.458 0,7.984 -6.473,14.457 -14.457,14.457 -7.984,0 -14.457,-6.473 -14.457,-14.457 z"
+             style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             id="path9795"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1698649"
+     inkscape:cx="565.68543"
+     inkscape:cy="329.30973"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1865"
+     inkscape:window-height="1056"
+     inkscape:window-x="55"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata143059">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Crusher</dc:title>
+        <dc:date>01042019</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>khushal</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <g
+       id="g9679"
+       transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+      <path
+         d="M 20.816,3949.063 H 762.113"
+         style="fill:none;stroke:#236ea1;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.771875, 1.771875;stroke-dashoffset:0;stroke-opacity:1"
+         id="path9681"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g9683"
+       transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,5.9089597,-1213.9414)">
+      <path
+         d="m 3947.914,-168.203 h 92.606"
+         style="fill:none;stroke:#236ea1;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.771875, 1.771875;stroke-dashoffset:0;stroke-opacity:1"
+         id="path9685"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g9687"
+       transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,0.61729278,-1213.9414)">
+      <path
+         d="m 3949.164,-314.664 h 89.465"
+         style="fill:none;stroke:#236ea1;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.771875, 1.771875;stroke-dashoffset:0;stroke-opacity:1"
+         id="path9689"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g9691"
+       transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,3.7708035,-1213.9414)">
+      <path
+         d="m 3949.172,-459.863 h 90.727"
+         style="fill:none;stroke:#236ea1;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.771875, 1.771875;stroke-dashoffset:0;stroke-opacity:1"
+         id="path9693"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g9695"
+       transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,5.9089597,-1213.9414)">
+      <path
+         d="m 3949.164,-600.664 h 89.465"
+         style="fill:none;stroke:#236ea1;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.771875, 1.771875;stroke-dashoffset:0;stroke-opacity:1"
+         id="path9697"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       style="font-variant:normal;font-weight:normal;font-size:3.00037503px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+       id="text9821"
+       x="33.662651"
+       y="187.409">
+      <tspan
+         style="stroke-width:0.35277775"
+         x="33.662651 35.828907 36.828037 38.49625 39.996433 41.664646 43.332844"
+         y="187.409"
+         sodipodi:role="line"
+         id="tspan9797">Crusher</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="33.662651 35.828907 37.49712 39.165333 40.164448 41.664646 43.332844 44.16396 46.330219 47.32935 48.997562 50.497746 52.165958 53.834156"
+         y="201.16045"
+         sodipodi:role="line"
+         id="tspan9799">Coarse Crusher</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="83.668884 86.168205 87.836411 89.504608 90.1707 91.838905 94.338211 95.169312 97.335579 98.334717 100.00291 101.50311 103.17133 104.83954 105.83865"
+         y="187.409"
+         sodipodi:role="line"
+         id="tspan9801">Medium Crushers</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="83.668884 85.499115 86.165192 87.833405 89.501625 90.332726 92.498985 93.498123 95.166321 96.666504 98.334717 100.00291 101.00204"
+         y="204.16043"
+         sodipodi:role="line"
+         id="tspan9803">Fine Crushers</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="135.17444 137.17268 138.84088 139.84001 140.5061 142.1743 143.84251 145.3427 146.17381 148.34007 149.3392 151.00742 152.5076 154.17581 155.84402 156.84314"
+         y="186.90877"
+         sodipodi:role="line"
+         id="tspan9805">Various Crushers</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="135.17444 137.3407 139.00893 141.50822 144.00752 145.67574 146.67487 147.50597 149.67226 150.67137 152.33958 153.83977 155.50798 157.17621"
+         y="197.16"
+         sodipodi:role="line"
+         id="tspan9807">Hammer Crusher</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="135.17444 136.00554 138.50485 140.17305 141.84126 143.34145 144.17255 145.00366 147.16994 148.16905 149.83727 151.33746 153.00566 154.67387"
+         y="207.91145"
+         sodipodi:role="line"
+         id="tspan9809">Impact Crusher</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="186.18115 187.6813 189.34955 191.51581 192.34692 194.51318 195.51233 197.18051 198.68069 200.34891 202.01712"
+         y="186.90877"
+         sodipodi:role="line"
+         id="tspan9811">Jaw Crusher</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="186.18115 188.34741 190.01562 190.6817 191.34781 193.01599 194.01514 194.84622 197.01248 198.0116 199.67984 201.18002 202.84821 204.51642"
+         y="197.16"
+         sodipodi:role="line"
+         id="tspan9813">Roller Crusher</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="186.18115 188.34741 190.01562 191.68384 193.35202 194.18317 196.34943 197.34854 199.01675 200.51694 202.18515 203.85336"
+         y="208.16087"
+         sodipodi:role="line"
+         id="tspan9815">Cone Crusher</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="235.68716 237.68542 238.3515 240.01971 241.01883 242.68704 243.51816 244.18423 245.85245 247.52066 248.35175 250.51804 251.51715 253.18536 254.68555 256.35373 258.02197"
+         y="186.90877"
+         sodipodi:role="line"
+         id="tspan9817">Vibration Crusher</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="235.68716 237.85345 239.52167 242.02097 244.52026 246.18851 247.18762 248.01871 250.18497 251.18408 252.85233 254.35251 256.02069 257.6889"
+         y="200.16"
+         sodipodi:role="line"
+         id="tspan9819">Hammer Crusher</tspan>
+    </text>
+    <g
+       id="g9823"
+       transform="matrix(0.35277777,0,0,0.35277777,5.9089597,-1213.9414)">
+      <path
+         d="M 20.82,4040.199 H 762.113"
+         style="fill:none;stroke:#236ea1;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.771875, 1.771875;stroke-dashoffset:0;stroke-opacity:1"
+         id="path9825"
+         inkscape:connector-curvature="0" />
+    </g>
+    <use
+       xlink:href="#Crusher"
+       id="use153963" />
+    <use
+       xlink:href="#Coarse_Crusher"
+       id="use153978" />
+    <use
+       xlink:href="#Medium_Crushers"
+       id="use153999" />
+    <use
+       xlink:href="#Fine_Crushers"
+       id="use154026" />
+    <use
+       xlink:href="#Various_Crushers"
+       id="use154059"
+       transform="translate(-1.83328)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#Hammer_Crushers"
+       id="use154098"
+       transform="translate(-1.83328)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#Impact_Crusher"
+       id="use154143"
+       transform="translate(-1.83328)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#Jaw_Crusher"
+       id="use154194"
+       transform="translate(0.27264193)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#Roller_Crusher"
+       id="use154251"
+       transform="translate(0.27264193)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#Cone_Crusher"
+       id="use154314"
+       transform="translate(0.27264193)"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
+    <use
+       xlink:href="#Vibration_Crusher"
+       id="use154396" />
+    <use
+       xlink:href="#Hammer_Crusher_1"
+       id="use154484" />
+  </g>
+</svg>
