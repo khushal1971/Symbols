@@ -1,0 +1,1777 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg100598"
+   sodipodi:docname="compressor.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <title
+     id="title115287">Compressor</title>
+  <defs
+     id="defs100592">
+    <symbol
+       id="Compressor">
+      <g
+         id="Compressor_transform"
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)">
+        <title
+           id="title111006">Compressor</title>
+        <path
+           d="m 36.121,2554.887 c 0,7.465 6.051,13.515 13.512,13.515 7.465,0 13.515,-6.05 13.515,-13.515 0,-7.461 -6.05,-13.512 -13.515,-13.512 -7.461,0 -13.512,6.051 -13.512,13.512 z m 5.402,10.812 -5.402,5.406 h 27.027 l -5.406,-5.406 c -5.222,3.606 -10.992,3.606 -16.219,0 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           id="path8783"
+           inkscape:connector-curvature="0" />
+      </g>
+    </symbol>
+    <symbol
+       id="Compressor_2">
+      <title
+         id="title111008">Compressor 2</title>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8785">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8787"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 36.121,2589.703 c 0,-7.465 6.051,-13.515 13.512,-13.515 7.465,0 13.515,6.05 13.515,13.515 0,7.461 -6.05,13.512 -13.515,13.512 -7.461,0 -13.512,-6.051 -13.512,-13.512 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8789">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8791"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 40.164,2579.973 -4.043,-3.785" />
+      </g>
+      <g
+         transform="matrix(-0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8793">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8795"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -59.105,2579.973 -4.043,-3.785" />
+      </g>
+    </symbol>
+    <symbol
+       id="Compressor_Vacuum_Pump">
+      <title
+         id="title111010">Compressor Vacuum Pump</title>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8797">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8799"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2610.922,-49.633 c 0,-7.468 6.051,-13.515 13.516,-13.515 7.461,0 13.515,6.047 13.515,13.515 0,7.461 -6.054,13.512 -13.515,13.512 -7.465,0 -13.516,-6.051 -13.516,-13.512 z" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8801">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8803"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2617.68,-61.258 -5.406,17.301" />
+      </g>
+      <g
+         transform="matrix(-2.4628534e-8,-0.35277777,-0.35277777,2.4628534e-8,12.72507,-736.01279)"
+         id="g8805">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8807"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2631.195,-61.258 -5.407,17.301" />
+      </g>
+    </symbol>
+    <symbol
+       id="Centrifugal_Compressor">
+      <title
+         id="title111012">Centrifugal Compressor</title>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8809">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8811"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2645.801,-49.633 c 0,-7.468 6.051,-13.515 13.516,-13.515 7.461,0 13.511,6.047 13.511,13.515 0,7.461 -6.05,13.512 -13.511,13.512 -7.465,0 -13.516,-6.051 -13.516,-13.512 z" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8813">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8815"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2652.559,-61.258 -5.406,17.301" />
+      </g>
+      <g
+         transform="matrix(-2.4628534e-8,-0.35277777,-0.35277777,2.4628534e-8,12.72507,-736.01279)"
+         id="g8817">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8819"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2666.07,-61.258 -5.407,17.301" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8821">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8823"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 36.121,2659.316 H 63.148" />
+      </g>
+    </symbol>
+    <symbol
+       id="Diaphragm_Compressor">
+      <title
+         id="title111014">Diaphragm Compressor</title>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8825">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8827"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2680.606,-49.633 c 0,-7.468 6.05,-13.515 13.515,-13.515 7.461,0 13.516,6.047 13.516,13.515 0,7.461 -6.055,13.512 -13.516,13.512 -7.465,0 -13.515,-6.051 -13.515,-13.512 z" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8829">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8831"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2687.469,-61.258 -5.512,17.254 c 7.992,5.477 19.297,4.703 24.301,0" />
+      </g>
+      <g
+         transform="matrix(-2.4628534e-8,-0.35277777,-0.35277777,2.4628534e-8,12.72507,-736.01279)"
+         id="g8833">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8835"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2700.879,-61.258 -5.406,17.301" />
+      </g>
+    </symbol>
+    <symbol
+       id="Ejector_Compressor">
+      <title
+         id="title111016">Ejector Compressor</title>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8837">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8839"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2541.375,-190.824 c 0,-7.465 6.047,-13.512 13.512,-13.512 7.461,0 13.516,6.047 13.516,13.512 0,7.465 -6.055,13.516 -13.516,13.516 -7.465,0 -13.512,-6.051 -13.512,-13.516 z" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8841">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8843"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2548.129,-202.445 -5.402,17.301" />
+      </g>
+      <g
+         transform="matrix(-2.4628534e-8,-0.35277777,-0.35277777,2.4628534e-8,12.72507,-736.01279)"
+         id="g8845">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8847"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2561.645,-202.445 -5.406,17.301" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8849">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8851"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 179.336,2547.949 c 2.723,2.059 10.535,4.656 17.566,-1.441" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,-0.35277777,12.72507,-736.01279)"
+         id="g8853">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8855"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 179.336,-2561.824 c 2.723,2.054 10.535,4.656 17.566,-1.442" />
+      </g>
+    </symbol>
+    <symbol
+       id="Piston_Compressor">
+      <title
+         id="title111018">Piston Compressor</title>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8857">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8859"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2576.188,-190.824 c 0,-7.465 6.051,-13.512 13.515,-13.512 7.461,0 13.512,6.047 13.512,13.512 0,7.465 -6.051,13.516 -13.512,13.516 -7.464,0 -13.515,-6.051 -13.515,-13.516 z" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8861">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8863"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2582.946,-202.445 -5.407,17.301" />
+      </g>
+      <g
+         transform="matrix(-2.4628534e-8,-0.35277777,-0.35277777,2.4628534e-8,12.72507,-736.01279)"
+         id="g8865">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8867"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2596.457,-202.445 -5.406,17.301" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8869">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8871"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 196.227,2584.297 -0.004,10.808" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8873">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8875"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 195.957,2589.703 H 185.145" />
+      </g>
+    </symbol>
+    <symbol
+       id="Ring_Compressor">
+      <title
+         id="title111020">Ring Compressor</title>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8877">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8879"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2610.922,-190.824 c 0,-7.465 6.051,-13.512 13.516,-13.512 7.461,0 13.515,6.047 13.515,13.512 0,7.465 -6.054,13.516 -13.515,13.516 -7.465,0 -13.516,-6.051 -13.516,-13.516 z" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8881">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8883"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2617.68,-202.445 -5.406,17.301" />
+      </g>
+      <g
+         transform="matrix(-2.4628534e-8,-0.35277777,-0.35277777,2.4628534e-8,12.72507,-736.01279)"
+         id="g8885">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8887"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2631.195,-202.445 -5.407,17.301" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8889">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8891"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="M 182.715,2624.438 H 198.93" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8893">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8895"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 186.77,2617.41 8.105,14.055" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8897">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8899"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 186.77,2631.465 8.105,-14.055" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8901">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8903"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 185.473,2624.422 c 0,-2.988 2.386,-5.41 5.351,-5.41 2.942,0 5.336,2.422 5.336,5.41 0,2.984 -2.394,5.406 -5.336,5.406 -2.965,0 -5.351,-2.422 -5.351,-5.406 z" />
+      </g>
+    </symbol>
+    <symbol
+       id="Roller_Vane_Compressor">
+      <title
+         id="title111022">Roller Vane Compressor</title>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8905">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8907"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2645.801,-190.824 c 0,-7.465 6.051,-13.512 13.516,-13.512 7.461,0 13.511,6.047 13.511,13.512 0,7.465 -6.05,13.516 -13.511,13.516 -7.465,0 -13.516,-6.051 -13.516,-13.516 z" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8909">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8911"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2652.559,-202.445 -5.406,17.301" />
+      </g>
+      <g
+         transform="matrix(-2.4628534e-8,-0.35277777,-0.35277777,2.4628534e-8,12.72507,-736.01279)"
+         id="g8913">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8915"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2666.07,-202.445 -5.407,17.301" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8917">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8919"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 190.824,2648.91 -0.008,4.055" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8921">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8923"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 190.824,2665.668 -0.008,4.055" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8925">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8927"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 177.309,2659.316 h 5.406" />
+      </g>
+    </symbol>
+    <symbol
+       id="Reciprocating_Compressor_3">
+      <title
+         id="title111024">Reciprocating Compressor 3</title>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8929">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8931"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 177.309,2680.609 h 27.027 v 27.027 h -27.027 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8933">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8935"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 190.824,2695.473 -0.008,18.922" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8937">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8939"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 177.293,2692.77 h 27.059" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8941">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8943"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 177.293,2695.473 h 27.059" />
+      </g>
+    </symbol>
+    <symbol
+       id="Compressor_silencers">
+      <title
+         id="title111026">Compressor silencers</title>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8945">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8947"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 322.625,2549.176 h 24.633" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8949">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8951"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 329.328,2546.203 -0.008,5.352" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8953">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8955"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 342.531,2546.203 -0.008,5.352" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8957">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8959"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 331.09,2554.031 c -0.008,1.594 0.832,3.067 2.211,3.864 1.375,0.796 3.07,0.796 4.449,0 1.375,-0.797 2.219,-2.27 2.207,-3.864 0.012,-1.59 -0.832,-3.062 -2.207,-3.859 -1.379,-0.801 -3.074,-0.801 -4.449,0 -1.379,0.797 -2.219,2.269 -2.211,3.859 z m 1.773,3.571 -1.773,1.785 h 8.867 l -1.773,-1.785 c -1.711,1.191 -3.606,1.191 -5.321,0 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8961">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8963"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 319.672,2555.629 c 0.258,0.855 1.504,1.476 2.953,1.476 1.453,0 2.699,-0.621 2.957,-1.476 v -12.906 c -0.258,-0.856 -1.504,-1.477 -2.957,-1.477 -1.449,0 -2.695,0.621 -2.953,1.477 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8965">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8967"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 346.473,2555.629 c 0.257,0.855 1.504,1.476 2.953,1.476 1.453,0 2.699,-0.621 2.957,-1.476 v -12.906 c -0.258,-0.856 -1.504,-1.477 -2.957,-1.477 -1.449,0 -2.696,0.621 -2.953,1.477 z" />
+      </g>
+    </symbol>
+    <symbol
+       id="Rotary_Compressor">
+      <title
+         id="title111028">Rotary Compressor</title>
+      <g
+         transform="matrix(-1.542041e-8,-0.35277777,0.35277777,-1.542041e-8,12.72507,-736.01279)"
+         id="g8969">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8971"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2586.367,322.066 -0.01,4.856" />
+      </g>
+      <g
+         transform="matrix(-1.542041e-8,-0.35277777,0.35277777,-1.542041e-8,12.72507,-736.01279)"
+         id="g8973">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8975"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2582.828,322.066 h -7.078" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8977">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8979"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2586,-349.179 v 4.855" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g8981">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8983"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2589.539,-349.582 h -7.078" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8985">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8987"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 324.496,2605.547 h 22.66 l -11.332,-13.176 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8989">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8991"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 326.723,2600.113 c 2.402,1.457 5.683,2.278 9.101,2.278 3.422,0 6.699,-0.821 9.106,-2.278 v -31.379 c -2.407,-1.457 -5.684,-2.277 -9.106,-2.277 -3.418,0 -6.695,0.82 -9.101,2.277 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8993">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8995"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 329.832,2576.941 c 0,-3.265 2.684,-5.91 5.992,-5.91 3.309,0 5.992,2.645 5.992,5.91 0,3.266 -2.683,5.914 -5.992,5.914 -3.308,0 -5.992,-2.648 -5.992,-5.914 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g8997">
+        <path
+           inkscape:connector-curvature="0"
+           id="path8999"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 329.832,2591.879 c 0,-3.266 2.684,-5.91 5.992,-5.91 3.309,0 5.992,2.644 5.992,5.91 0,3.266 -2.683,5.914 -5.992,5.914 -3.308,0 -5.992,-2.648 -5.992,-5.914 z" />
+      </g>
+    </symbol>
+    <symbol
+       id="Rotary_Compressor_2">
+      <title
+         id="title111030">Rotary Compressor 2</title>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9001">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9003"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 319.152,2624.438 c 0,-4.68 3.774,-8.461 8.442,-8.461 4.66,0 8.441,3.781 8.441,8.461 0,4.671 -3.781,8.46 -8.441,8.46 -4.668,0 -8.442,-3.789 -8.442,-8.46 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9005">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9007"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 336.012,2624.438 c 0,-4.68 3.773,-8.461 8.437,-8.461 4.66,0 8.442,3.781 8.442,8.461 0,4.671 -3.782,8.46 -8.442,8.46 -4.664,0 -8.437,-3.789 -8.437,-8.46 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9009">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9011"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 335.984,2611.512 -0.007,25.851" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9013">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9015"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 327.586,2615.984 h 16.883" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9017">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9019"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 327.586,2632.91 h 16.883" />
+      </g>
+    </symbol>
+    <symbol
+       id="Rotary_Compressor_3">
+      <title
+         id="title111032">Rotary_Compressor_3</title>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g9021">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9023"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2644.731,-336.027 c 0,-6.949 5.629,-12.57 12.57,-12.57 6.941,0 12.574,5.621 12.574,12.57 0,6.941 -5.633,12.57 -12.574,12.57 -6.941,0 -12.57,-5.629 -12.57,-12.57 z" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g9025">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9027"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2651.016,-346.84 -5.027,16.094" />
+      </g>
+      <g
+         transform="matrix(-2.4628534e-8,-0.35277777,-0.35277777,2.4628534e-8,12.72507,-736.01279)"
+         id="g9029">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9031"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2663.586,-346.84 -5.031,16.094" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9033">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9035"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 332.453,2653.781 c 0,0 -3.422,3.789 0,7.024" />
+      </g>
+      <g
+         transform="matrix(-0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9037">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9039"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -339.602,2653.781 c 0,0 -3.418,3.688 0,7.024" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9041">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9043"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 331,2657.301 h 10.055" />
+      </g>
+    </symbol>
+    <symbol
+       id="Rotary_Compressor_and_silencers">
+      <title
+         id="title111034">Rotary_Compressor and silencers</title>
+      <g
+         transform="matrix(-1.542041e-8,-0.35277777,0.35277777,-1.542041e-8,12.72507,-736.01279)"
+         id="g9045">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9047"
+           style="fill:none;stroke:#000000;stroke-width:1.41750002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2696.988,321.328 -0.01,8.574" />
+      </g>
+      <g
+         transform="matrix(-1.542041e-8,-0.35277777,0.35277777,-1.542041e-8,12.72507,-736.01279)"
+         id="g9049">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9051"
+           style="fill:none;stroke:#000000;stroke-width:1.41750002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2694.574,326.637 h -4.832" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g9053">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9055"
+           style="fill:none;stroke:#000000;stroke-width:1.41750002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2696.742,-351.816 -0.01,10.207" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g9057">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9059"
+           style="fill:none;stroke:#000000;stroke-width:1.41750002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2699.157,-345.148 h -4.833" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9061">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9063"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 328.27,2710.078 h 15.246 l -7.625,-8.992 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9065">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9067"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 329.766,2706.391 c 1.621,0.98 3.824,1.531 6.125,1.531 2.3,0 4.507,-0.551 6.125,-1.531 v -21.453 c -1.618,-0.981 -3.825,-1.532 -6.125,-1.532 -2.301,0 -4.504,0.551 -6.125,1.532 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9069">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9071"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 331.859,2690.559 c 0,-2.227 1.805,-4.036 4.032,-4.036 2.226,0 4.031,1.809 4.031,4.036 0,2.226 -1.805,4.035 -4.031,4.035 -2.227,0 -4.032,-1.809 -4.032,-4.035 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9073">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9075"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 331.859,2700.75 c 0,-2.227 1.805,-4.031 4.032,-4.031 2.226,0 4.031,1.804 4.031,4.031 0,2.23 -1.805,4.035 -4.031,4.035 -2.227,0 -4.032,-1.805 -4.032,-4.035 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9077">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9079"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 316.156,2700.391 c 0.356,1.179 2.074,2.039 4.082,2.039 2.004,0 3.723,-0.86 4.082,-2.039 v -17.684 c -0.359,-1.184 -2.078,-2.043 -4.082,-2.043 -2.008,0 -3.726,0.859 -4.082,2.043 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9081">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9083"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 347.734,2700.391 c 0.36,1.179 2.079,2.039 4.082,2.039 2.008,0 3.727,-0.86 4.086,-2.039 v -17.684 c -0.359,-1.184 -2.078,-2.043 -4.086,-2.043 -2.003,0 -3.722,0.859 -4.082,2.043 z" />
+      </g>
+    </symbol>
+    <symbol
+       id="Liquid_ring_Compressor">
+      <title
+         id="title111036">Liquid ring Compressor</title>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9085">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9087"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:4.25250006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 467.383,2555.527 c 0,-7.824 6.332,-14.148 14.148,-14.148 7.813,0 14.145,6.324 14.145,14.148 0,7.801 -6.332,14.145 -14.145,14.145 -7.816,0 -14.148,-6.344 -14.148,-14.145 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9089">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9091"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 471.305,2552.402 c 0,0 4.156,-2.875 10.043,3.012" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9093">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9095"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 472.137,2560.617 c 0,0 0.172,-5.203 9.211,-5.203 0,0 -6.207,5.113 -3.106,10.496" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9097">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9099"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 491.387,2558.52 c -3.789,3.785 -10.039,-3.106 -10.039,-3.106 0,0 -1.188,7.301 4.925,9.676" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9101">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9103"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 484.449,2545.281 c 3.469,5.297 -3.101,10.133 -3.101,10.133 0,0 6.937,1.371 9.582,-4.93" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9105">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9107"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 481.348,2555.414 c 0,0 1.824,-6.57 -4.84,-9.309" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9109">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9111"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 479.793,2555.516 c 0,-0.957 0.777,-1.735 1.738,-1.735 0.953,0 1.731,0.778 1.731,1.735 0,0.957 -0.778,1.738 -1.731,1.738 -0.961,0 -1.738,-0.781 -1.738,-1.738 z" />
+      </g>
+    </symbol>
+    <symbol
+       id="Centrifugal_Compressor_1">
+      <title
+         id="title111038">Centrifugal Compressor 1</title>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9113">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9115"
+           style="fill:none;stroke:#000000;stroke-width:2.12625003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 469.402,2581.234 h 8.211 v 7.258" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9117">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9119"
+           style="fill:none;stroke:#000000;stroke-width:2.12625003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 490.797,2589.258 v -8.024 h 11.269" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9121">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9123"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.12625003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 499.23,2579.816 2.836,1.418 -2.836,1.418 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9125">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9127"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 467.68,2593.648 h 5.922 v 1.531 h -5.922 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9129">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9131"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 473.602,2603.203 v -16.812 l 21.777,3.437 v 10.125 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9133">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9135"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 460.996,2592.504 8.594,-1.527 v 6.492 l -8.594,-1.145 z" />
+      </g>
+      <text
+         y="180.7767"
+         x="176.24583"
+         id="text9139"
+         style="font-variant:normal;font-weight:normal;font-size:3.00037503px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775">
+        <tspan
+           id="tspan9137"
+           y="180.7767"
+           x="176.24583"
+           style="stroke-width:0.35277775">T</tspan>
+      </text>
+    </symbol>
+    <symbol
+       id="Centrifugal_Compressor_2">
+      <title
+         id="title111040">Centrifugal Compressor 2</title>
+      <g
+         transform="matrix(-1.542041e-8,-0.35277777,0.35277777,-1.542041e-8,12.72507,-736.01279)"
+         id="g9141">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9143"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2624.676,460.828 v 4.559" />
+      </g>
+      <g
+         transform="matrix(-1.542041e-8,-0.35277777,0.35277777,-1.542041e-8,12.72507,-736.01279)"
+         id="g9145">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9147"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2621.297,460.828 h -6.754" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9149">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9151"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 473.172,2637.488 h 21.269 l -10.636,-12.558 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9153">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9155"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 492.191,2622.133 c 0,0 1.106,9.601 -8.355,11.293 -9.258,1.652 -11.902,-8.121 -11.902,-8.121 0,0 -1.512,-9.207 8.609,-11.926 h 15.191 v 8.754 z" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path9157"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+         d="m 178.79098,188.89347 h 1.42487 v 2.18404 h -1.42487 z" />
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9159">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9161"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 463.488,2623.531 h 14.055 v 2.285 h -14.055 z" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g9163">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9165"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2617.727,-501.851 v 4.558" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g9167">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9169"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2621.106,-501.851 h -6.754" />
+      </g>
+    </symbol>
+    <symbol
+       id="Centrifugal_Compressor_3">
+      <title
+         id="title111042">Centrifugal Compressor 3</title>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9171">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9173"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 477.789,2658.078 h 4.934 v 1.266 h -4.934 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9175">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9177"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 482.723,2665.996 v -13.937 l 18.14,2.851 v 8.395 z" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path9179"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+         d="m 176.30108,200.8865 c -0.30339,0.0921 -0.52388,0.53304 -0.52388,1.04704 0,0.51541 0.22049,0.95638 0.52388,1.0474 h 4.5667 c 0.30304,-0.091 0.52353,-0.53199 0.52353,-1.0474 0,-0.514 -0.22049,-0.95497 -0.52353,-1.04704 z" />
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g9181">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9183"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2655.778,-463.679 c 0.261,0.859 1.511,1.484 2.968,1.484 1.461,0 2.711,-0.625 2.969,-1.484 v -12.946 c -0.258,-0.859 -1.508,-1.484 -2.969,-1.484 -1.457,0 -2.707,0.625 -2.968,1.484 z m 0,0 h 5.937 m -5.937,-12.946 h 5.937" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9185">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9187"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 496.984,2651.93 -0.007,2.375" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9189">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9191"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 498.75,2651.93 h -3.531" />
+      </g>
+      <g
+         transform="matrix(-0.35277777,5.3268031e-8,-5.3268031e-8,-0.35277777,12.72507,-736.01279)"
+         id="g9193">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9195"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -485.679,-2668.074 -0.008,2.375" />
+      </g>
+      <g
+         transform="matrix(-0.35277777,5.3268031e-8,-5.3268031e-8,-0.35277777,12.72507,-736.01279)"
+         id="g9197">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9199"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -483.914,-2668.074 h -3.531" />
+      </g>
+    </symbol>
+    <symbol
+       id="Selectable_Compressor">
+      <title
+         id="title111044">Selectable Compressor</title>
+      <path
+         inkscape:connector-curvature="0"
+         id="path9201"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35277775"
+         d="m 177.27651,219.73506 10.64401,-2.12901 v -6.38563 l -10.64401,-2.12902 z" />
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9203">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9205"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 466.445,2709.207 30.172,-6.035 v -18.102 l -30.172,-6.035 z" />
+      </g>
+    </symbol>
+    <symbol
+       id="Axial_Compressor">
+      <title
+         id="title111046">Axial Compressor</title>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9207">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9209"
+           style="fill:none;stroke:#000000;stroke-width:2.12625003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 606.938,2543.461 h 8.097 v 7.199" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9211">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9213"
+           style="fill:none;stroke:#000000;stroke-width:2.12625003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 628.035,2551.418 v -7.957 h 11.113" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9215">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9217"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.12625003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 636.313,2542.043 2.835,1.418 -2.835,1.418 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9219">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9221"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 611.082,2565.25 v -16.672 l 21.473,3.41 v 10.043 z" />
+      </g>
+    </symbol>
+    <symbol
+       id="Air_Compressor">
+      <title
+         id="title111048">Air Compressor</title>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9223">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9225"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 611.484,2582.066 h 23.114 c 3.34,0 6.043,2.122 6.043,4.743 0,2.617 -2.703,4.742 -6.043,4.742 h -23.114 c -3.336,0 -6.043,-2.125 -6.043,-4.742 0,-2.621 2.707,-4.743 6.043,-4.743 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9227">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9229"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 611.805,2594.352 c 0,-1.547 1.234,-2.801 2.754,-2.801 1.523,0 2.757,1.254 2.757,2.801 0,1.546 -1.234,2.8 -2.757,2.8 -1.52,0 -2.754,-1.254 -2.754,-2.8 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9231">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9233"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 629.191,2594.352 c 0,-1.547 1.235,-2.801 2.758,-2.801 1.524,0 2.754,1.254 2.754,2.801 0,1.546 -1.23,2.8 -2.754,2.8 -1.523,0 -2.758,-1.254 -2.758,-2.8 z" />
+      </g>
+    </symbol>
+    <symbol
+       id="AC_Air_Compressor">
+      <title
+         id="title111050">AC Air Compressor</title>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9235">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9237"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 607.137,2617.297 c 0,0 -2.25,2.351 -2.25,7.566 0,5.032 2.25,7.567 2.25,7.567 h 31.808 c -0.179,0 2.254,-1.727 2.254,-7.567 0,-6.195 -2.433,-7.566 -2.254,-7.566 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9239">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9241"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 610.262,2617.297 -0.008,-9.078" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9243">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9245"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 608.516,2612.395 v 3.269 h 3.488 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9247">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9249"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 608.988,2611.172 2.543,1.906" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9251">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9253"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 609.25,2610.309 2.16,1.632" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9255">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9257"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 609.391,2609.398 1.949,1.454" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9259">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9261"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 615.77,2614.68 c 0,-0.832 0.66,-1.504 1.468,-1.504 0.813,0 1.473,0.672 1.473,1.504 0,0.832 -0.66,1.504 -1.473,1.504 -0.808,0 -1.468,-0.672 -1.468,-1.504 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9263">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9265"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 617.242,2613.176 11.328,-2.461" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9267">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9269"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 617.242,2616.188 11.328,0.421" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9271">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9273"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 625.695,2613.664 c 0,-1.629 1.285,-2.949 2.875,-2.949 1.59,0 2.879,1.32 2.879,2.949 0,1.625 -1.289,2.945 -2.879,2.945 -1.59,0 -2.875,-1.32 -2.875,-2.945 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9275">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9277"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 636.113,2617.254 -0.008,-1.719" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9279">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9281"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 636.113,2613.336 -1.453,2.113 h 2.906 z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,-0.35277777,12.72507,-736.01279)"
+         id="g9283">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9285"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 636.113,-2613.68 -1.453,2.117 h 2.906 z" />
+      </g>
+    </symbol>
+    <symbol
+       id="Screw_Compressor">
+      <title
+         id="title111052">Screw Compressor</title>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g9287">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9289"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2646.61,-623.043 c 0,-7.469 6.05,-13.511 13.511,-13.511 7.465,0 13.516,6.042 13.516,13.511 0,7.465 -6.051,13.516 -13.516,13.516 -7.461,0 -13.511,-6.051 -13.511,-13.516 z" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g9291">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9293"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2653.367,-634.652 -5.406,17.301" />
+      </g>
+      <g
+         transform="matrix(-2.4628534e-8,-0.35277777,-0.35277777,2.4628534e-8,12.72507,-736.01279)"
+         id="g9295">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9297"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2666.879,-634.652 -5.406,17.301" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9299">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9301"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 614.934,2658.824 1.621,-1.621 2.918,3.242 3.57,-3.242 3.566,3.242 3.407,-3.242 1.136,1.621" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)"
+         id="g9303">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9305"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 614.934,2661.422 1.621,-1.625 2.918,3.246 3.57,-3.246 3.566,3.246 3.407,-3.246 1.136,1.625" />
+      </g>
+    </symbol>
+    <symbol
+       id="Turbo_Compressor">
+      <title
+         id="title111054">Turbo Compressor</title>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g9307">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9309"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2681.864,-623.043 c 0,-7.469 6.046,-13.511 13.511,-13.511 7.461,0 13.516,6.042 13.516,13.511 0,7.465 -6.055,13.516 -13.516,13.516 -7.465,0 -13.511,-6.051 -13.511,-13.516 z" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g9311">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9313"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2688.617,-634.664 -5.402,17.297" />
+      </g>
+      <g
+         transform="matrix(-2.4628534e-8,-0.35277777,-0.35277777,2.4628534e-8,12.72507,-736.01279)"
+         id="g9315">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9317"
+           style="fill:none;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m -2702.133,-634.664 -5.406,17.297" />
+      </g>
+      <g
+         transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)"
+         id="g9319">
+        <path
+           inkscape:connector-curvature="0"
+           id="path9321"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+           d="m 2689.293,-623.043 c 0,-3.359 2.723,-6.082 6.082,-6.082 3.36,0 6.082,2.723 6.082,6.082 0,3.36 -2.722,6.082 -6.082,6.082 -3.359,0 -6.082,-2.722 -6.082,-6.082 z" />
+      </g>
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="516.11797"
+     inkscape:cy="466.47156"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1865"
+     inkscape:window-height="1056"
+     inkscape:window-x="55"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata100595">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Compressor</dc:title>
+        <dc:date>11/3/2019</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Khushal</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <g
+       id="g8777"
+       transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)">
+      <path
+         d="M 20.086,2537.289 H 761.383"
+         style="fill:none;stroke:#236ea1;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.771875, 1.771875;stroke-dashoffset:0;stroke-opacity:1"
+         id="path8779"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g9339"
+       transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)">
+      <path
+         d="m 2537.414,-312.652 h 180.598"
+         style="fill:none;stroke:#236ea1;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.771875, 1.771875;stroke-dashoffset:0;stroke-opacity:1"
+         id="path9341"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g9343"
+       transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)">
+      <path
+         d="m 2539.168,-457.222 h 180.348"
+         style="fill:none;stroke:#236ea1;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.771875, 1.771875;stroke-dashoffset:0;stroke-opacity:1"
+         id="path9345"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g9347"
+       transform="matrix(2.663398e-8,0.35277777,-0.35277777,2.663398e-8,12.72507,-736.01279)">
+      <path
+         d="m 2538.422,-598.652 h 179.59"
+         style="fill:none;stroke:#236ea1;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.771875, 1.771875;stroke-dashoffset:0;stroke-opacity:1"
+         id="path9349"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g9351"
+       transform="matrix(0.35277777,0,0,0.35277777,12.72507,-736.01279)">
+      <path
+         d="M 19.332,2716.68 H 760.621"
+         style="fill:none;stroke:#236ea1;stroke-width:0.70875001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.771875, 1.771875;stroke-dashoffset:0;stroke-opacity:1"
+         id="path9353"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       style="font-variant:normal;font-weight:normal;font-size:3.00037503px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+       id="text9431"
+       x="40.47876"
+       y="167.7749">
+      <tspan
+         style="stroke-width:0.35277775"
+         x="40.47876 42.645035 44.31324 46.812553 48.480766 49.479881 51.148094 52.648285 54.148468 55.816681"
+         y="167.7749"
+         sodipodi:role="line"
+         id="tspan9355">Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="40.47876 42.645035 44.31324 46.812553 48.480766 49.479881 51.148094 52.648285 54.148468 55.816681 56.815804 57.646904"
+         y="179.0266"
+         sodipodi:role="line"
+         id="tspan9357">Compressor 2</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="40.47876 42.645035 44.31324 46.812553 48.480766 49.479881 51.148094 52.648285 54.148468 55.816681 56.815804 57.646904"
+         y="189.52724"
+         sodipodi:role="line"
+         id="tspan9359">Compressor,</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="40.47876 42.477013 44.145218 45.645409 47.313614 48.981827 51.48114 52.312241 53.980446 55.648659 58.147964"
+         y="193.27826"
+         sodipodi:role="line"
+         id="tspan9361">Vacuum pump</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="40.47876 42.645035 44.31324 45.981445 46.812553 47.811676 48.47776 49.308861 50.977074 52.645279 54.313492 54.979576"
+         y="202.2796"
+         sodipodi:role="line"
+         id="tspan9363">Centrifugal</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="40.47876 42.645035 44.31324 46.812553 48.480766 49.479881 51.148094 52.648285 54.148468 55.816681 56.815804"
+         y="206.02925"
+         sodipodi:role="line"
+         id="tspan9365">Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="43.478752 45.64502 46.311104 47.979309 49.647522 51.315727 52.314857 53.983063 55.651268 58.150581"
+         y="212.78026"
+         sodipodi:role="line"
+         id="tspan9367">Diaphragm</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="43.478752 45.64502 47.313225 49.812538 51.480751 52.479874 54.148087 55.64827 57.14846 58.816666"
+         y="216.53128"
+         sodipodi:role="line"
+         id="tspan9369">Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="90.485008 92.483253 93.149338 94.817551 96.317741 97.148849 98.817047 99.816177 100.64728 102.81355 104.48176 106.98108 108.64928 109.6484 111.31662 112.8168 114.31699 115.9852"
+         y="166.52502"
+         sodipodi:role="line"
+         id="tspan9371">Ejector Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="90.485008 92.483253 93.149338 94.649529 95.480637 97.148849 98.817047 99.648155 101.81442 103.48264 105.98195 107.65016 108.64928 110.31749 111.81768 113.31786 114.98608"
+         y="178.52637"
+         sodipodi:role="line"
+         id="tspan9373">Piston Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="90.485008 92.651283 93.31736 94.985573 96.653778 97.484886 99.651154 101.31936 103.81867 105.48689 106.48602 108.15421 109.6544 111.15459 112.82279"
+         y="191.02792"
+         sodipodi:role="line"
+         id="tspan9375">Ring Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="90.485008 92.651283 94.319489 94.985573 95.651649 97.319862 98.318985 99.150093 100.65028 102.31849 103.98669 105.65491"
+         y="201.27916"
+         sodipodi:role="line"
+         id="tspan9377">Roller vane</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="90.485008 92.651283 94.319489 96.818802 98.487007 99.486137 101.15434 102.65453 104.15472 105.82292"
+         y="205.02879"
+         sodipodi:role="line"
+         id="tspan9379">Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="90.485008 92.651283 94.319489 95.819679 96.485756 98.153969 99.153091 100.8213 102.32149 103.9897 104.82081 105.48689 107.1551 108.8233"
+         y="214.28094"
+         sodipodi:role="line"
+         id="tspan9381">Reciprocating</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="90.485008 92.651283 94.319489 96.818802 98.487007 99.486137 101.15434 102.65453 104.15472 105.82292 106.82205 107.65314"
+         y="218.03058"
+         sodipodi:role="line"
+         id="tspan9383">Compressor 3</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="141.24091 143.40718 145.07539 147.57469 149.2429 150.24203 151.91025 153.41043 154.91061 156.57881 157.57796 158.40904 159.90924 160.57532 161.24139 162.90961 164.57782 166.07802 167.74622 168.74535"
+         y="164.77492"
+         sodipodi:role="line"
+         id="tspan9385">Compressor silencers</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="141.24091 143.40718 145.07539 145.90648 147.57469 148.57382 150.07401 150.90511 153.07138 154.73959 157.23891 158.9071 159.90623 161.57445 163.07463 164.57481 166.24303"
+         y="176.27603"
+         sodipodi:role="line"
+         id="tspan9387">Rotary Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="141.24091 143.40718 145.07539 145.90648 147.57469 148.57382 150.07401 150.90511 153.07138 154.73959 157.23891 158.9071 159.90623 161.57445 163.07463 164.57481 166.24303 167.24216"
+         y="189.02701"
+         sodipodi:role="line"
+         id="tspan9389">Rotary Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="141.24091"
+         y="192.77803"
+         id="tspan9391">2</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="141.24091 143.40718 145.07539 145.90648 147.57469 148.57382 150.07401"
+         y="200.77893"
+         sodipodi:role="line"
+         id="tspan9393">Rotory</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="141.24091 143.40718 145.07539 147.57469 149.2429 150.24203 151.91025 153.41043 154.91061 156.57881 157.57796 158.40904"
+         y="204.52994"
+         sodipodi:role="line"
+         id="tspan9395">Compressor 3</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="141.24091 143.40718 145.07539 145.90648 147.57469 148.57382 150.07401 150.90511 153.07138 154.73959 157.23891 158.9071 159.90623 161.57445 163.07463 164.57481 166.24303 167.24216"
+         y="214.28094"
+         sodipodi:role="line"
+         id="tspan9397">Rotory Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="141.24091 142.90912 144.57733 146.24554 147.07663 148.57681 149.2429 149.90898 151.57719 153.24541 154.74559 156.41379 157.41292"
+         y="218.03058"
+         sodipodi:role="line"
+         id="tspan9399">and silencers</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="192.74785 194.41606 195.08214 196.75037 198.41856 199.08464 200.75284 201.58397 202.58308 203.24915 204.91737 206.58557"
+         y="164.77492"
+         sodipodi:role="line"
+         id="tspan9401">Liquid ring</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="192.74785 194.91412 196.58234 199.08163 200.74986 201.74898 203.41719 204.91737 206.41756 208.08577"
+         y="168.52457"
+         sodipodi:role="line"
+         id="tspan9403">Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="192.74785 194.91412 196.58234 198.25053 199.08163 200.08076 200.74684 201.57796 203.24615 204.91438 206.58258 207.24864"
+         y="176.52545"
+         sodipodi:role="line"
+         id="tspan9405">Centrifugal</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="192.74785 194.91412 196.58234 199.08163 200.74986 201.74898 203.41719 204.91737 206.41756 208.08577"
+         y="180.27647"
+         sodipodi:role="line"
+         id="tspan9407">Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="192.74785 194.91412 196.58234 198.25053 199.08163 200.08076 200.74684 201.57796 203.24615 204.91438 206.58258 207.24864"
+         y="189.52724"
+         sodipodi:role="line"
+         id="tspan9409">Centrifugal</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="192.74785 194.91412 196.58234 199.08163 200.74986 201.74898 203.41719 204.91737 206.41756 208.08577 209.08488 209.91599"
+         y="193.27826"
+         sodipodi:role="line"
+         id="tspan9411">Compressor 2</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="192.74785 194.91412 196.58234 198.25053 199.08163 200.08076 200.74684 201.57796 203.24615 204.91438 206.58258 207.24864"
+         y="202.2796"
+         sodipodi:role="line"
+         id="tspan9413">Centrifugal</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="192.74785 194.91412 196.58234 199.08163 200.74986 201.74898 203.41719 204.91737 206.41756 208.08577 209.08488 209.91599"
+         y="206.02925"
+         sodipodi:role="line"
+         id="tspan9415">Compressor 3</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="192.74785 194.74609 196.41429 197.0804 198.74861 200.24878 201.0799 202.74811 204.41631 205.0824 206.7506"
+         y="214.28094"
+         sodipodi:role="line"
+         id="tspan9417">Selectable</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="192.74785 194.91412 196.58234 199.08163 200.74986 201.74898 203.41719 204.91737 206.41756 208.08577"
+         y="218.03058"
+         sodipodi:role="line"
+         id="tspan9419">Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="242.25388 244.25211 245.7523 246.4184 248.08659 248.75269 249.58379 251.75005 253.41827 255.91757 257.58578 258.5849 260.25311 261.7533 263.25348 264.92169"
+         y="166.0248"
+         sodipodi:role="line"
+         id="tspan9421">Axial Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="242.25388 244.25211 244.91821 245.91733 246.74843 248.9147 250.58292 253.08221 254.75044 255.74956 257.41776 258.91794 260.41812 262.08633"
+         y="178.02614"
+         sodipodi:role="line"
+         id="tspan9423">Air Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="242.25388 244.25211 246.4184 247.2495 248.91771 249.58379 250.58292 251.41402 253.58029 255.24849 257.7478 259.41599 260.41513 262.08334 263.58353 265.08371 266.75192"
+         y="190.77711"
+         sodipodi:role="line"
+         id="tspan9425">AC air Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="242.25388 244.25211 245.7523 246.75143 248.41965 250.58591 251.41701 253.58328 255.2515 257.75082 259.41901 260.41812 262.08633 263.58652 265.0867 266.75494"
+         y="203.5295"
+         sodipodi:role="line"
+         id="tspan9427">Screw Compressor</tspan>
+      <tspan
+         style="stroke-width:0.35277775"
+         x="242.25388 244.08411 245.7523 246.75143 248.41965 250.08784 250.91895 253.08524 254.75343 257.25275 258.92093 259.92007 261.58829 263.08847 264.58865 266.25687"
+         y="216.28047"
+         sodipodi:role="line"
+         id="tspan9429">Turbo Compressor</tspan>
+    </text>
+    <g
+       id="g9433"
+       transform="matrix(-4.993296e-4,0.35277777,-0.35277777,-4.993296e-4,12.72507,-736.01279)">
+      <path
+         d="m 2539.177,-170.332 177.746,-0.002"
+         style="fill:none;stroke:#236ea1;stroke-width:0.708749;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:1.771873, 1.771873;stroke-dashoffset:0;stroke-opacity:1"
+         id="path9435"
+         inkscape:connector-curvature="0" />
+    </g>
+    <use
+       xlink:href="#Compressor"
+       id="use111061" />
+    <use
+       xlink:href="#Compressor_2"
+       id="use111076" />
+    <use
+       xlink:href="#Compressor_Vacuum_Pump"
+       id="use111099" />
+    <use
+       xlink:href="#Centrifugal_Compressor"
+       id="use111132" />
+    <use
+       xlink:href="#Diaphragm_Compressor"
+       id="use111173" />
+    <use
+       xlink:href="#Ejector_Compressor"
+       id="use111226" />
+    <use
+       xlink:href="#Piston_Compressor"
+       id="use111291" />
+    <use
+       xlink:href="#Ring_Compressor"
+       id="use111372" />
+    <use
+       xlink:href="#Roller_Vane_Compressor"
+       id="use111467" />
+    <use
+       xlink:href="#Reciprocating_Compressor_3"
+       id="use111572" />
+    <use
+       xlink:href="#Compressor_silencers"
+       id="use111691" />
+    <use
+       xlink:href="#Rotary_Compressor"
+       id="use111828" />
+    <use
+       xlink:href="#Rotary_Compressor_2"
+       id="use111977" />
+    <use
+       xlink:href="#Rotary_Compressor_3"
+       id="use112140" />
+    <use
+       xlink:href="#Rotary_Compressor_and_silencers"
+       id="use112325" />
+    <use
+       xlink:href="#Liquid_ring_Compressor"
+       id="use112526" />
+    <use
+       xlink:href="#Centrifugal_Compressor_1"
+       id="use112743" />
+    <use
+       xlink:href="#Centrifugal_Compressor_2"
+       id="use112977" />
+    <use
+       xlink:href="#Centrifugal_Compressor_3"
+       id="use113228" />
+    <use
+       xlink:href="#Selectable_Compressor"
+       id="use113484" />
+    <use
+       xlink:href="#Axial_Compressor"
+       id="use113750" />
+    <use
+       xlink:href="#Air_Compressor"
+       id="use114024" />
+    <use
+       xlink:href="#AC_Air_Compressor"
+       id="use114326" />
+    <use
+       xlink:href="#Screw_Compressor"
+       id="use114640" />
+    <use
+       xlink:href="#Turbo_Compressor"
+       id="use114964" />
+  </g>
+</svg>
